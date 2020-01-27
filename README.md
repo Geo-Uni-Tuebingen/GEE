@@ -6,5 +6,5 @@ Version 1.0
 
 **Day 1**
 - *Introduction to cloud-based remote sensing**
-- Useful links
+- [Useful links](https://github.com/Geo-Uni-Tuebingen/GEE/blob/master/useful%20links)
 - EE Getting Started
