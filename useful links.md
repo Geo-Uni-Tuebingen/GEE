@@ -1,5 +1,5 @@
 # EO Browser
-* **[EO Browser](https://apps.sentinel-hub.com/eo-browser/)
+* **[EO Browser](https://apps.sentinel-hub.com/eo-browser/)**
 * [User guide](https://www.sentinel-hub.com/explore/eobrowser/user-guide#)
 * [Creating custom scripts - tutorial](https://www.sentinel-hub.com/explore/education/custom-scripts-tutorial)
 * [Creating custom scripts - video](https://www.youtube.com/watch?v=02Xbbu1PHdg)
