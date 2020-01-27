@@ -37,7 +37,7 @@ Version 1.1
 - Other data sources (SRTM)
 
 *15:15 - 17:00*
-- Radar data in GEE
+- Radar data in GEE (content, polarization)
 - Image composites
 - Temporal statistics
 - Flood masking
