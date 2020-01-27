@@ -2,6 +2,10 @@
 Google Earth Engine course materials of the compact course on 14./15.02.2020 at the Institute of Geography, University of Tübingen
 
 Version 1.1
+
+![Palm Oil plantations near a city in Nigeria](https://github.com/Geo-Uni-Tuebingen/GEE/blob/master/imgs/PalmOil%20thin.jpg)
+
+
 ## Structure
 
 **Day 1**
