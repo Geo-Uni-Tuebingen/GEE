@@ -22,3 +22,7 @@
 * [Interating over an image collection](https://developers.google.com/earth-engine/ic_iterating)
 * [Introduction to JavaScript for Earth Engine](https://developers.google.com/earth-engine/tutorial_js_01)
 * [Filters and reducers](https://developers.google.com/earth-engine/reducers_intro)
+
+
+# Other links
+* [Copernicus Open Access hub](https://scihub.copernicus.eu/dhus/#/home)
