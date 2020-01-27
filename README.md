@@ -42,6 +42,6 @@ Version 1.1
 
 *15:15 - 17:00*
 - Radar data in GEE (content, polarization)
-- Image composites
+- [Image composites](https://github.com/Geo-Uni-Tuebingen/GEE/blob/master/scripts/S1%20image%20composite)
 - Temporal statistics
 - Flood masking
