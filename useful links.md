@@ -12,6 +12,7 @@
 * [GEE datasets (different structure)](https://earthengine.google.com/datasets/)
 * [GEE data catalogue](https://explorer.earthengine.google.com/#index)
 * **[GEE code](https://code.earthengine.google.com/)**
+* [GEE developers guide](https://developers.google.com/earth-engine/)
 * [GEE terms of service](https://earthengine.google.com/terms/)
 * [GEE case studies](https://earthengine.google.com/case_studies/)
 * [GEE developers forum](https://groups.google.com/forum/#%21forum/google-earth-engine-developers)
