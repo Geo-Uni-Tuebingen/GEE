@@ -44,5 +44,6 @@ Version 1.1
 - Radar data in GEE (content, polarization), [display a radar image](https://github.com/Geo-Uni-Tuebingen/GEE/blob/master/scripts/S1_single_image.js)
 - [Image composites](https://github.com/Geo-Uni-Tuebingen/GEE/blob/master/scripts/S1_image_composite.js)
 - [Image polarization](https://github.com/Geo-Uni-Tuebingen/GEE/blob/master/scripts/S1_image_composite.js)
-- Temporal statistics
+- [Temporal statistics](https://github.com/Geo-Uni-Tuebingen/GEE/blob/master/scripts/S1_temporal_plot.js)
+- [Temporal averaging]()
 - Flood masking
