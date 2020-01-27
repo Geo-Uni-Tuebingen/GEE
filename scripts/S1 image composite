@@ -1,6 +1,7 @@
 # Preparation
 1. Login to [EO Browser](https://apps.sentinel-hub.com/eo-browser) and search for a Sentinel-1 GRD image of your choice.  
-
+2. Copy the image ID into a textfile (S1A_IW_GRDH...)
+3. Search two more images from the same area, but from different dates (e.g. different season or same time, but different year)
 
 
 # Create a composite
