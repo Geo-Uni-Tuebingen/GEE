@@ -41,7 +41,7 @@ Version 1.1
 - Other data sources (SRTM)
 
 *15:15 - 17:00*
-- Radar data in GEE (content, polarization), [display a radar image](https://github.com/Geo-Uni-Tuebingen/GEE/blob/master/scripts/S1%20single%20image.js)
-- [Image composites](https://github.com/Geo-Uni-Tuebingen/GEE/blob/master/scripts/S1%20image%20composite)
+- Radar data in GEE (content, polarization), [display a radar image](https://github.com/Geo-Uni-Tuebingen/GEE/blob/master/scripts/S1_single_image.js)
+- [Image composites](https://github.com/Geo-Uni-Tuebingen/GEE/blob/master/scripts/S1_image_composite.js)
 - Temporal statistics
 - Flood masking
