@@ -45,5 +45,5 @@ Version 1.1
 - [Image composites](https://github.com/Geo-Uni-Tuebingen/GEE/blob/master/scripts/S1_image_composite.js)
 - [Image polarization](https://github.com/Geo-Uni-Tuebingen/GEE/blob/master/scripts/S1_image_composite.js)
 - [Temporal statistics](https://github.com/Geo-Uni-Tuebingen/GEE/blob/master/scripts/S1_temporal_plot.js)
-- [Temporal averaging]()
+- [Temporal averaging](https://github.com/Geo-Uni-Tuebingen/GEE/blob/master/scripts/S1_temporal_average.js) and [RGB](https://github.com/Geo-Uni-Tuebingen/GEE/blob/master/scripts/S1_temporal_average_RGB.js)
 - Flood masking
