@@ -12,7 +12,7 @@ Version 1.1
 
 *9:15 - 10:30*
 - Introduction to cloud-based remote sensing
-- [Useful links](https://github.com/Geo-Uni-Tuebingen/GEE/blob/master/useful%20links)
+- [Useful links](https://github.com/Geo-Uni-Tuebingen/GEE/blob/master/useful_links.md)
 - EO Browser
 
 *10:45 - 12:15*
