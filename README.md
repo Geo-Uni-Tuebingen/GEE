@@ -5,6 +5,11 @@ Version 1.1
 ## Structure
 
 **Day 1**
-- *Introduction to cloud-based remote sensing*
+*Introduction to cloud-based remote sensing*
 - [Useful links](https://github.com/Geo-Uni-Tuebingen/GEE/blob/master/useful%20links)
-- EE Getting Started
+- EO Browser
+
+*Google Earth Engine*
+- Getting Started with GEE
+- Loading images
+
