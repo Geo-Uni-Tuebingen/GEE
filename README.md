@@ -26,8 +26,18 @@ Version 1.1
 
 **Day 2**
 
-*9:15 - 10:30*
+*9:15 - 12:00*
 - Supervised classification
 - Comparison of classifiers
 
-*10:45 - 12:15*
+*13:00 - 15:00*
+- Validation
+- Accuracy assessment
+- Cloud-free mosaics
+- Other data sources (SRTM)
+
+*15:15 - 17:00*
+- Radar data in GEE
+- Image composites
+- Temporal statistics
+- Flood masking
