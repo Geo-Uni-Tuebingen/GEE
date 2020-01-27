@@ -25,4 +25,4 @@
 
 
 # Other links
-* [Copernicus Open Access hub](https://scihub.copernicus.eu/dhus/#/home)
+* 
