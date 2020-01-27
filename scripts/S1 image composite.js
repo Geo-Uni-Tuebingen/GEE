@@ -2,7 +2,7 @@
 // 1. Login to [EO Browser](https://apps.sentinel-hub.com/eo-browser) and search for a Sentinel-1 GRD image of your choice.  
 // 2. Copy the image ID into a textfile (S1A_IW_GRDH...)
 // 3. Search two more images from the same area, but from different dates (e.g. different season or same time, but different year)
-//
+
 
 // Create a composite
 var image1 = ee.Image('COPERNICUS/S1_GRD/S1A_IW_GRDH_1SDV_20160705T092336_20160705T092401_012011_0128B4_D346').select('VV');
@@ -14,7 +14,6 @@ var RGB = ee.Image.cat(image1,image2,image3);
 Map.addLayer(RGB, {min: -8,  max: -3,}, 'RGB');
 
 Map.centerObject(image1)
-
 
 
 // Things to try
