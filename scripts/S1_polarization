@@ -1,0 +1,27 @@
+// Preparation
+// 1. Login to [EO Browser](https://apps.sentinel-hub.com/eo-browser) and search for a Sentinel-1 GRD image of your choice.  
+// 2. Copy the image ID into a textfile (S1A_IW_GRDH...)
+
+
+// Create a composite
+
+var image = ee.Image('COPERNICUS/S1_GRD/S1A_IW_GRDH_1SDV_20180923T033306_20180923T033335_023820_029960_89E3')
+
+// Select bands
+var vv = image.select('VV');
+var vh = image.select('VH');
+
+// Calculate ratio (VV/VH)
+var cross = vv.divide(vh);
+
+// Create RGB composite
+var RGB = ee.Image.cat(vv, vh, cross);
+Map.addLayer(RGB, {min: [-15, -20, 0], max: [0, -5, 4]}, 'composite');
+Map.centerObject(image);
+
+
+// Things to try
+// 1. Can you think of other images which can be derived from the two products?
+// 2. Create a RGB with VV-VH instead
+// 3. Use band maths to create more image variables:
+// https://developers.google.com/earth-engine/image_math
