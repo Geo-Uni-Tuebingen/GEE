@@ -14,3 +14,4 @@ Map.centerObject(S1);
 // 1. Compare the image to the one displayed in the EO Browser. Are they identical?
 // 2. Have a look at the documentation how they are prepared for use in GEE: 
 // https://developers.google.com/earth-engine/datasets/catalog/COPERNICUS_S1_GRD
+// 3. How does topography influence backscatter intensity?
