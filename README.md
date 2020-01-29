@@ -19,18 +19,23 @@ Version 1.1
 - Getting Started with GEE
 - Load and display images
 - Plotting
-- Metadata
+- Metadata and Console output
 
 *13:15 - 15:00* 
 - Collections
-- Filter, Console
-- NDVI
+- Selection / filtering of images
+- Spectral indices 
 - Spectral signatures
-
+- Temporal plots
+- Unsupervised classification
+- Assignment of classes
+- Aggregation of classes 
+- Calculation of areas
 
 **Day 2**
 
 *9:15 - 12:00*
+- Collection / import of training data
 - Supervised classification
 - Comparison of classifiers
 
@@ -39,6 +44,7 @@ Version 1.1
 - Accuracy assessment
 - Cloud-free mosaics
 - Other data sources (SRTM)
+- Export of results
 
 *15:15 - 17:00*
 - Radar data in GEE (content, polarization)
