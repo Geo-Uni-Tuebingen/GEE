@@ -9,7 +9,7 @@ Version 1.2
 *9:15 - 10:30*
 - Introduction to cloud-based remote sensing
 - [Useful links](https://github.com/Geo-Uni-Tuebingen/GEE/blob/master/useful_links.md)
-- EO Browser
+- [EO Browser](https://apps.sentinel-hub.com/eo-browser/)
 
 *10:45 - 12:15*
 - Getting Started with GEE
