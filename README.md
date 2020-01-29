@@ -1,10 +1,6 @@
 # Cloud-based remote sensing
 Google Earth Engine course materials of the compact course on 14./15.02.2020 at the Institute of Geography, University of Tübingen
-
-Version 1.1
-
-![Palm Oil plantations near a city in Nigeria](https://github.com/Geo-Uni-Tuebingen/GEE/blob/master/imgs/PalmOil%20thin.jpg)
-
+Version 1.2
 
 ## Structure
 
@@ -54,3 +50,6 @@ Version 1.1
 - [Temporal statistics](https://github.com/Geo-Uni-Tuebingen/GEE/blob/master/scripts/S1_temporal_plot.js)
 - [Temporal averaging](https://github.com/Geo-Uni-Tuebingen/GEE/blob/master/scripts/S1_temporal_average.js) and [RGB](https://github.com/Geo-Uni-Tuebingen/GEE/blob/master/scripts/S1_temporal_average_RGB.js)
 - [Flood mapping](https://github.com/Geo-Uni-Tuebingen/GEE/blob/master/scripts/S1_flood_mapping.js)
+
+
+![Palm Oil plantations near a city in Nigeria](https://github.com/Geo-Uni-Tuebingen/GEE/blob/master/imgs/PalmOil%20thin.jpg)
