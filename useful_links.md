@@ -6,6 +6,17 @@
 * [Custom scripts - code examples](https://custom-scripts.sentinel-hub.com/)
 
 
+# EO Browser visualizations
+- Sun and shadow in  Dubai: https://twitter.com/i_ameztoy/status/1129409459070087174
+- Thwaites glacier ice tounge: https://twitter.com/StefLhermitte/status/1101870380623511552
+- Urban construction in Egypt: https://twitter.com/mk_krupinski/status/1092086243675029505
+- Irrigated cropland in Turkey: https://twitter.com/annamaria_84/status/1178727742721921024
+- Halloween crack in the Antarctic ice shelf: https://twitter.com/bert_polar/status/1101062121486458883
+- Growth of the Kutupalong refugee camp: https://twitter.com/zawhar_dudayev/status/1208059522377338881
+- Solar power generation im Marocco: https://twitter.com/sgascoin/status/1196113698609401856
+- Deforestation in Brazil: https://twitter.com/i_ameztoy/status/1164908903248945154
+
+
 # Google Earth Engine
 * [Google Earth Engine](https://earthengine.google.com/)
 * [GEE datasets](https://developers.google.com/earth-engine/datasets)
