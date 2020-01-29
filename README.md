@@ -1,4 +1,5 @@
 # Cloud-based remote sensing
+Matthias Schubert, Andreas Braun
 Google Earth Engine course materials of the compact course on 14./15.02.2020 at the Institute of Geography, University of Tübingen
 Version 1.2
 
