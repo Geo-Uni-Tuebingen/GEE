@@ -30,12 +30,12 @@ Version 1.2
 
 **Day 2**
 
-*9:15 - 12:00*
+*9:15 - 12:15*
 - Collection / import of training data
 - Supervised classification
 - Comparison of classifiers
 
-*13:00 - 15:00*
+*13:15 - 15:00*
 - Validation
 - Accuracy assessment
 - Cloud-free mosaics
