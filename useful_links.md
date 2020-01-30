@@ -4,6 +4,7 @@
 * [Creating custom scripts - tutorial](https://www.sentinel-hub.com/explore/education/custom-scripts-tutorial)
 * [Creating custom scripts - video](https://www.youtube.com/watch?v=02Xbbu1PHdg)
 * [Custom scripts - code examples](https://custom-scripts.sentinel-hub.com/)
+* [Education materials and use cases](https://www.sentinel-hub.com/explore/education)
 
 
 # EO Browser visualizations
