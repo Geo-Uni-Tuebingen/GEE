@@ -27,7 +27,8 @@
 * [GEE terms of service](https://earthengine.google.com/terms/)
 * [GEE case studies](https://earthengine.google.com/case_studies/)
 * [GEE developers forum](https://groups.google.com/forum/#%21forum/google-earth-engine-developers)
-
+* [Official GEE presentation on the GEE User Summit 2016](https://docs.google.com/presentation/d/1FKAj4BzV61w_J4lAJodWHsZFW0jt8hpXukk8O3rWdIU/edit#slide=id.g14e9609607_0_0)
+* [GEE Community on GitHub](https://github.com/gee-community)
 
 # GEE instructions
 * [Exporting data for download](https://developers.google.com/earth-engine/exporting)
