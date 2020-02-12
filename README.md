@@ -16,9 +16,12 @@ Version 1.2
 *10:45 - 12:15*
 - Getting Started with GEE
 - [GEE data types](https://github.com/Geo-Uni-Tuebingen/GEE/blob/master/scripts/S2_GEE_data_types.js)
-- Load and display images
-- Plotting
+- Load and display Images
 - Metadata and Console output
+- Band selection
+- Image Collections and mosaics
+- Filtering Image Collections
+- Time series
 
 *13:15 - 15:00* 
 - Collections
