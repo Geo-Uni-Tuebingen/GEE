@@ -20,6 +20,7 @@ Version 1.2
 - [Metadata and Console output](https://github.com/Geo-Uni-Tuebingen/GEE/blob/master/scripts/S2_Metadata_and_Console_output.js)
 - [Band selection](https://github.com/Geo-Uni-Tuebingen/GEE/blob/master/scripts/S2_Band_selection.js)
 - [Image Collections and mosaics](https://github.com/Geo-Uni-Tuebingen/GEE/blob/master/scripts/S2_Image_Collections_and_mosaics.js)
+- [Simple geometries](https://github.com/Geo-Uni-Tuebingen/GEE/blob/master/scripts/S2_Simple_geometries.js)
 - Filtering Image Collections
 - Time series
 
