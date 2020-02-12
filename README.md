@@ -22,7 +22,7 @@ Version 1.2
 - [Image Collections and mosaics](https://github.com/Geo-Uni-Tuebingen/GEE/blob/master/scripts/S2_Image_Collections_and_mosaics.js)
 - [Simple geometries](https://github.com/Geo-Uni-Tuebingen/GEE/blob/master/scripts/S2_Simple_geometries.js)
 - [Filtering Image Collections](https://github.com/Geo-Uni-Tuebingen/GEE/blob/master/scripts/S2_Filtering_Image_Collections.js)
-- Time series
+- [Time series](https://github.com/Geo-Uni-Tuebingen/GEE/blob/master/scripts/S2_Time_series.js)
 
 *13:15 - 15:00* 
 - Collections
