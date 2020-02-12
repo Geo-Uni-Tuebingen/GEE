@@ -38,13 +38,6 @@ Version 1.2
 - Comparison of classifiers
 
 *13:15 - 15:00*
-- Validation
-- Accuracy assessment
-- Cloud-free mosaics
-- Other data sources (SRTM)
-- Export of results
-
-*15:15 - 17:00*
 - Radar data in GEE (content, polarization)
 - [Display a radar image](https://github.com/Geo-Uni-Tuebingen/GEE/blob/master/scripts/S1_single_image.js)
 - [Image composites](https://github.com/Geo-Uni-Tuebingen/GEE/blob/master/scripts/S1_image_composite.js)
@@ -52,6 +45,13 @@ Version 1.2
 - [Temporal statistics](https://github.com/Geo-Uni-Tuebingen/GEE/blob/master/scripts/S1_temporal_plot.js)
 - [Temporal averaging](https://github.com/Geo-Uni-Tuebingen/GEE/blob/master/scripts/S1_temporal_average.js) and [RGB](https://github.com/Geo-Uni-Tuebingen/GEE/blob/master/scripts/S1_temporal_average_RGB.js)
 - [Flood mapping](https://github.com/Geo-Uni-Tuebingen/GEE/blob/master/scripts/S1_flood_mapping.js)
+
+*15:15 - 17:00*
+- Validation of the supervised classification
+- Accuracy assessment
+- Cloud-free mosaics
+- Other data sources (SRTM)
+- Export of results
 
 
 ![Palm Oil plantations near a city in Nigeria](https://github.com/Geo-Uni-Tuebingen/GEE/blob/master/imgs/PalmOil%20thin.jpg)
