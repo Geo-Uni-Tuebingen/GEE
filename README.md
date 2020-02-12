@@ -19,7 +19,7 @@ Version 1.2
 - [Load and display Images](https://github.com/Geo-Uni-Tuebingen/GEE/blob/master/scripts/S2_Load_and_display_images.js)
 - [Metadata and Console output](https://github.com/Geo-Uni-Tuebingen/GEE/blob/master/scripts/S2_Metadata_and_Console_output.js)
 - [Band selection](https://github.com/Geo-Uni-Tuebingen/GEE/blob/master/scripts/S2_Band_selection.js)
-- Image Collections and mosaics
+- [Image Collections and mosaics](https://github.com/Geo-Uni-Tuebingen/GEE/blob/master/scripts/S2_Image_Collections_and_mosaics.js)
 - Filtering Image Collections
 - Time series
 
