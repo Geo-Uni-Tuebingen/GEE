@@ -22,11 +22,6 @@ var regions1 = new ee.FeatureCollection([corn, annual_crop, pasture]); // use th
 // Add one layer to the map
 Map.addLayer(S1, {min:-30, max:-5}, 'Sentinel-1 VH');
 
-// define the colors of the lines in the chart
-var COLOR = {
-  col1: 'ff0000',
-  col2: '0000ff',
-  col3: '00ff00'};
 
 // show the S1-HV time series chart for each vegetation type
 var S1_timeseries =
@@ -42,9 +37,9 @@ var S1_timeseries =
           lineWidth: 1,
           pointSize: 2,
           series: {
-              0: {color: COLOR.col1},
-              1: {color: COLOR.col2},
-              2: {color: COLOR.col3}}});
+              0: {color: 'ff0000'},
+              1: {color: '0000ff'},
+              2: {color: '00ff00'}}});
 
 
 print(S1_timeseries);
