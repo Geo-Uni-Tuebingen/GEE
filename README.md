@@ -50,7 +50,7 @@ Version 1.2
 - [Display a radar image](https://github.com/Geo-Uni-Tuebingen/GEE/blob/master/scripts/S1_single_image.js)
 - [Image composites](https://github.com/Geo-Uni-Tuebingen/GEE/blob/master/scripts/S1_image_composite.js)
 - [Image polarization](https://github.com/Geo-Uni-Tuebingen/GEE/blob/master/scripts/S1_polarization)
-- [Temporal statistics](https://github.com/Geo-Uni-Tuebingen/GEE/blob/master/scripts/S1_temporal_plot.js)
+- [Temporal plot](https://github.com/Geo-Uni-Tuebingen/GEE/blob/master/scripts/S1_temporal_plot.js)
 - [Temporal averaging](https://github.com/Geo-Uni-Tuebingen/GEE/blob/master/scripts/S1_temporal_average.js) and [RGB](https://github.com/Geo-Uni-Tuebingen/GEE/blob/master/scripts/S1_temporal_average_RGB.js)
 - [Flood mapping](https://github.com/Geo-Uni-Tuebingen/GEE/blob/master/scripts/S1_flood_mapping.js)
 
