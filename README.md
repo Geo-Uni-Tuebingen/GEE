@@ -32,7 +32,7 @@ Version 1.2
 - Map Algebra
 - Change Detection
 
-* 15:15 - 17:00*
+*15:15 - 17:00*
 - Unsupervised classification
 - Assignment of classes
 - Aggregation of classes 
