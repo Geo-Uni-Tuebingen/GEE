@@ -26,21 +26,21 @@ Version 1.2
 
 *13:15 - 15:00* 
 - [Spectral indices](https://github.com/Geo-Uni-Tuebingen/GEE/blob/master/scripts/S2_Spectral_indices.js) 
-- Clipping
+- [Clipping](https://github.com/Geo-Uni-Tuebingen/GEE/blob/master/scripts/S2_Clipping.js)
 - [Introduction to functions](https://github.com/Geo-Uni-Tuebingen/GEE/blob/master/scripts/S2_Introduction_to_functions.js)
-- Mapping functions
-- Map Algebra
-- Change Detection
+- [Mapping functions](https://github.com/Geo-Uni-Tuebingen/GEE/blob/master/scripts/S2_Mapping_functions.js)
+- [Map Algebra](https://github.com/Geo-Uni-Tuebingen/GEE/blob/master/scripts/S2_Map_Algebra.js)
+- [Change Detection](https://github.com/Geo-Uni-Tuebingen/GEE/blob/master/scripts/S2_Change_detection.js)
 
 *15:15 - 17:00*
-- Unsupervised classification
-- Assignment of classes
-- Aggregation of classes 
-- Calculation of areas
+- [Measure area function](https://github.com/Geo-Uni-Tuebingen/GEE/blob/master/scripts/S2_Measure_area_function.js)
+- [Assignment of classes](https://github.com/Geo-Uni-Tuebingen/GEE/blob/master/scripts/S2_Assignment_of_classes.js)
+- [Calculation of area](https://github.com/Geo-Uni-Tuebingen/GEE/blob/master/scripts/S2_Calculation_of_area.js)
 
 **Day 2**
 
 *9:15 - 12:15*
+- Unsupervised classification
 - Collection / import of training data
 - Supervised classification
 - Comparison of classifiers
