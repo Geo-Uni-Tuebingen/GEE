@@ -29,13 +29,13 @@ Version 1.2
 - [Clipping](https://github.com/Geo-Uni-Tuebingen/GEE/blob/master/scripts/S2_Clipping.js)
 - [Introduction to functions](https://github.com/Geo-Uni-Tuebingen/GEE/blob/master/scripts/S2_Introduction_to_functions.js)
 - [Mapping functions](https://github.com/Geo-Uni-Tuebingen/GEE/blob/master/scripts/S2_Mapping_functions.js)
-- [Map Algebra](https://github.com/Geo-Uni-Tuebingen/GEE/blob/master/scripts/S2_Map_Algebra.js)
 - [Change Detection](https://github.com/Geo-Uni-Tuebingen/GEE/blob/master/scripts/S2_Change_detection.js)
 
 *15:15 - 17:00*
 - [Measure area function](https://github.com/Geo-Uni-Tuebingen/GEE/blob/master/scripts/S2_Measure_area_function.js)
 - [Assignment of classes](https://github.com/Geo-Uni-Tuebingen/GEE/blob/master/scripts/S2_Assignment_of_classes.js)
 - [Area calculation](https://github.com/Geo-Uni-Tuebingen/GEE/blob/master/scripts/S2_Area_calculation.js)
+- [Map Algebra](https://github.com/Geo-Uni-Tuebingen/GEE/blob/master/scripts/S2_Map_Algebra.js)
 - [Iterating functions](https://github.com/Geo-Uni-Tuebingen/GEE/blob/master/scripts/S2_Iterating_functions.js)
 
 **Day 2**
