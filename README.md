@@ -36,7 +36,7 @@ Version 1.2
 - [Measure area function](https://github.com/Geo-Uni-Tuebingen/GEE/blob/master/scripts/S2_Measure_area_function.js)
 - [Assignment of classes](https://github.com/Geo-Uni-Tuebingen/GEE/blob/master/scripts/S2_Assignment_of_classes.js)
 - [Area calculation](https://github.com/Geo-Uni-Tuebingen/GEE/blob/master/scripts/S2_Area_calculation.js)
-- Iterating functions
+- [Iterating functions](https://github.com/Geo-Uni-Tuebingen/GEE/blob/master/scripts/S2_Iterating_functions.js)
 
 **Day 2**
 
