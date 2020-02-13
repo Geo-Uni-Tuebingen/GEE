@@ -25,10 +25,8 @@ Version 1.2
 - [Time series](https://github.com/Geo-Uni-Tuebingen/GEE/blob/master/scripts/S2_Time_series.js)
 
 *13:15 - 15:00* 
-- Collections
-- Selection / filtering of images
 - Spectral indices 
-- Spectral signatures
+- [Introduction to functions](https://github.com/Geo-Uni-Tuebingen/GEE/blob/master/scripts/S2_Introduction_to_functions.js)
 - Temporal plots
 - Unsupervised classification
 - Assignment of classes
