@@ -13,7 +13,7 @@ Map.addLayer(after, {min:-30,max:0}, 'After flood A');
 
 // Threshold smoothed radar intensities to identify "flooded" areas.
 var filter_radius = 85;
-var flood_threshold = -3;
+var flood_threshold = -5;
 
 var before_smooth = before.focal_median(filter_radius, 'circle', 'meters') 
 var after_smooth = after.focal_median(filter_radius, 'circle', 'meters')
@@ -22,12 +22,9 @@ var after_smooth = after.focal_median(filter_radius, 'circle', 'meters')
 var diff_smooth = after_smooth.subtract(before_smooth);
 var diff_thresholded = diff_smooth.lt(flood_threshold); 
 
-Map.addLayer(diff_thresholded.updateMask(diff_thresholded), {palette:"0000FF"},'flooded areas - blue',1)
-
 // Display map
-Map.addLayer(diff_smooth, {min:-10, max:10}, 'diff smoothed', 0);
-Map.addLayer(flood_mask, {palette:"0000FF"},'flooded areas - blue',1);
-
+Map.addLayer(diff_smooth, {min:-10, max:10}, 'difference', 0);
+Map.addLayer(diff_thresholded.updateMask(diff_thresholded), {palette:"0000FF"},'flooded areas - blue',1)
 
 // Things to try
 // 1. What is the ideal threshold? Add the diff_smooth raster to the map and find out 
