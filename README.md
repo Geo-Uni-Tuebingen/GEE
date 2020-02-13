@@ -26,8 +26,13 @@ Version 1.2
 
 *13:15 - 15:00* 
 - Spectral indices 
+- Clippping
 - [Introduction to functions](https://github.com/Geo-Uni-Tuebingen/GEE/blob/master/scripts/S2_Introduction_to_functions.js)
-- Temporal plots
+- Mapping functions
+- Map Algebra
+- Change Detection
+
+* 15:15 - 17:00*
 - Unsupervised classification
 - Assignment of classes
 - Aggregation of classes 
