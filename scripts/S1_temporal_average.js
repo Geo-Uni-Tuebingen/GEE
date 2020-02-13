@@ -6,7 +6,7 @@ var sentinel1 = ee.ImageCollection('COPERNICUS/S1_GRD');
 
 // Reduce collection
 var s1 = sentinel1
-  .filter(ee.Filter.listContains('transmitterReceiverPolarisation', 'VV'))
+  .filter(ee.Filter.listContains('transmitterReceiverPolarisation', 'VH'))
   .filter(ee.Filter.eq('instrumentMode', 'IW'))
   .select('VV')
   .filter(ee.Filter.eq('orbitProperties_pass', 'ASCENDING'))
@@ -24,6 +24,6 @@ Map.centerObject(geometry);
 
 // Things to try
 // 1. Load a single image and compare the image quality
-var single = ee.Image('COPERNICUS/S1_GRD/S1A_IW_GRDH_1SDV_20190418T162031_20190418T162056_026846_030497_5081')
+var single = ee.Image('COPERNICUS/S1_GRD/S1B_IW_GRDH_1SDV_20200207T171516_20200207T171541_020166_0262C7_16C8')
   .select('VV');
 Map.addLayer(single.clip(geometry), {min: [-15], max: [0]}, 'SAR_single', 1);
