@@ -39,4 +39,5 @@
 
 
 # Other links
-* 
+* Navarro (2017): [First Experiences with Google Earth Engine](https://www.researchgate.net/publication/316622120_First_Experiences_with_Google_Earth_Engine)
+* USDA (2018): [Getting started with the Google Earth Engine](https://servirglobal.net/Portals/0/Documents/Articles/ChangeDetectionTraining/Module2_Intro_Google_Earth_Engine_presentation.pdf)
