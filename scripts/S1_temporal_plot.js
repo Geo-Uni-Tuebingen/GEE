@@ -2,7 +2,7 @@
 // 1. Create a polygon (named geometry) to define your study area, ideally over an agricultural area
 // 2a. Create a new geometry (+new layer) and digitize a landuse or landcover class,
 // 2b. Edit its properties (gear icon): Enter a name and change it from "Geometry" to "Feature" 
-// 2c. Click "Add property" and enter _label_ in the first column and a name in the second. Confirm with "OK"
+// 2c. Click "Add property" and enter label in the first column and a name in the second. Confirm with "OK"
 // 3. Repeat step 2 (+ new layer) with two additional classes 
 
 // import S1 collection and select VH
