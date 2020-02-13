@@ -25,7 +25,7 @@ Version 1.2
 - [Time series](https://github.com/Geo-Uni-Tuebingen/GEE/blob/master/scripts/S2_Time_series.js)
 
 *13:15 - 15:00* 
-- Spectral indices 
+- [Spectral indices](https://github.com/Geo-Uni-Tuebingen/GEE/blob/master/scripts/S2_Spectral_indices.js) 
 - Clipping
 - [Introduction to functions](https://github.com/Geo-Uni-Tuebingen/GEE/blob/master/scripts/S2_Introduction_to_functions.js)
 - Mapping functions
