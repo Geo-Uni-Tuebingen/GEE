@@ -5,7 +5,7 @@
 var sentinel1 = ee.ImageCollection('COPERNICUS/S1_GRD');
 
 // Reduce collection
-var vv = sentinel1
+var s1 = sentinel1
   .filter(ee.Filter.listContains('transmitterReceiverPolarisation', 'VV'))
   .filter(ee.Filter.eq('instrumentMode', 'IW'))
   .select('VV')
@@ -14,10 +14,10 @@ var vv = sentinel1
   .filterBounds(geometry);
 
 // Print size of filtered image collection
-print('Number of images: ', vv.size());
+print('Number of images: ', s1.size());
 
 // Temporal average (per pixel) over the entire collection
-var S1mean = vv.mean()
+var S1mean = s1.mean()
 Map.addLayer(S1mean.clip(geometry), {min: [-15], max: [0]}, 'SAR_mean', 1);
 Map.centerObject(geometry);
 
