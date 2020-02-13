@@ -12,7 +12,6 @@ var S1 = ee.ImageCollection('COPERNICUS/S1_GRD')
 .filterDate('2019-01-01', '2019-12-31')
 .filterBounds(geometry);
 
-
 // Center the map
 Map.centerObject(geometry)
 
@@ -39,7 +38,7 @@ var S1_timeseries =
           series: {
               0: {color: 'ff0000'},
               1: {color: '0000ff'},
-              2: {color: '00ff00'}}});
+              2: {color: '00ff00'}}}); // color codes: https://www.color-hex.com/
 
 
 print(S1_timeseries);
