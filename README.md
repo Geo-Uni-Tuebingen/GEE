@@ -42,7 +42,6 @@ Version 1.2
 
 *9:15 - 12:15*
 - Unsupervised classification
-- Collection / import of training data
 - Supervised classification
 - Comparison of classifiers
 
