@@ -13,16 +13,19 @@ Map.addLayer(after, {min:-30,max:0}, 'After flood A');
 
 // Threshold smoothed radar intensities to identify "flooded" areas.
 var filter_radius = 85;
-var flood_threshold = -5
+var flood_threshold = -3;
 
 var before_smooth = before.focal_median(filter_radius, 'circle', 'meters') 
 var after_smooth = after.focal_median(filter_radius, 'circle', 'meters')
 
 // Create difference image and flood mask
-var diff_smooth = after.subtract(before_smooth)
-var flood_mask = diff_smooth.lt(flood_threshold); 
+var diff_smooth = after_smooth.subtract(before_smooth);
+var diff_thresholded = diff_smooth.lt(flood_threshold); 
+
+Map.addLayer(diff_thresholded.updateMask(diff_thresholded), {palette:"0000FF"},'flooded areas - blue',1)
 
 // Display map
+Map.addLayer(diff_smooth, {min:-10, max:10}, 'diff smoothed', 0);
 Map.addLayer(flood_mask, {palette:"0000FF"},'flooded areas - blue',1);
 
 
