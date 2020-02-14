@@ -42,7 +42,7 @@ Version 1.2
 
 *9:15 - 12:15*
 - [Unsupervised classification](https://github.com/Geo-Uni-Tuebingen/GEE/blob/master/scripts/S2_Unsupervised_Classification.js)
-- Supervised classification
+- [Supervised classification](https://github.com/Geo-Uni-Tuebingen/GEE/blob/master/scripts/S2_Supervised_Classification.js)
 - Comparison of classifiers
 
 *13:15 - 15:00*
@@ -55,11 +55,9 @@ Version 1.2
 - [Flood mapping](https://github.com/Geo-Uni-Tuebingen/GEE/blob/master/scripts/S1_flood_mapping.js)
 
 *15:15 - 17:00*
-- Validation of the supervised classification
-- Accuracy assessment
-- Cloud-free mosaics
-- Other data sources (SRTM)
+- Cloud-free image collections
 - Export of results
+- Other data sources (SRTM)
 
 
 ![Palm Oil plantations near a city in Nigeria](https://github.com/Geo-Uni-Tuebingen/GEE/blob/master/imgs/PalmOil%20thin.jpg)
