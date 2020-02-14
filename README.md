@@ -41,7 +41,7 @@ Version 1.2
 **Day 2**
 
 *9:15 - 12:15*
-- Unsupervised classification
+- [Unsupervised classification](https://github.com/Geo-Uni-Tuebingen/GEE/blob/master/scripts/S2_Unsupervised_Classification.js)
 - Supervised classification
 - Comparison of classifiers
 
