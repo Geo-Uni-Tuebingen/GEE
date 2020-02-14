@@ -55,7 +55,7 @@ Version 1.2
 - [Flood mapping](https://github.com/Geo-Uni-Tuebingen/GEE/blob/master/scripts/S1_flood_mapping.js)
 
 *15:15 - 17:00*
-- Cloud-free image collections
+- [Cloud-free image collections](https://github.com/Geo-Uni-Tuebingen/GEE/blob/master/scripts/S2_Cloud_free_image_collections.js)
 - Export of results
 - Other data sources (SRTM)
 
