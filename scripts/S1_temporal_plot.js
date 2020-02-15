@@ -17,7 +17,7 @@ var S1 = ee.ImageCollection('COPERNICUS/S1_GRD')
 Map.centerObject(geometry)
 
 // Create variable for all points
-var regions1 = new ee.FeatureCollection([corn, annual_crop, trees]);
+var regions1 = ee.FeatureCollection([corn, annual_crop, trees]);
 
 // Add one layer to the map
 Map.addLayer(S1, {min:-30, max:-5}, 'Sentinel-1 VH');
