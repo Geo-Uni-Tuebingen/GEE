@@ -9,7 +9,7 @@ Version 1.2
 **Day 1**
 
 *9:15 - 10:30*
-- Introduction to cloud-based remote sensing
+- [Introduction to cloud-based remote sensing](https://github.com/Geo-Uni-Tuebingen/GEE/blob/master/slides/Cloud-basierte%20Fernerkundung%2001%20Einf%C3%BChrung.pdf)
 - [Useful links](https://github.com/Geo-Uni-Tuebingen/GEE/blob/master/useful_links.md)
 - [EO Browser](https://apps.sentinel-hub.com/eo-browser/)
 
