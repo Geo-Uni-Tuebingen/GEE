@@ -56,8 +56,8 @@ Version 1.2
 
 *15:15 - 17:00*
 - [Cloud-free image collections](https://github.com/Geo-Uni-Tuebingen/GEE/blob/master/scripts/S2_Cloud_free_image_collections.js)
+- [SRTM, CORINE and more conditionals](https://github.com/Geo-Uni-Tuebingen/GEE/blob/master/scripts/S2_SRTM_CORINE_and_more_conditionals.js)
 - Export of results
-- Other data sources (SRTM)
 
 
 ![Palm Oil plantations near a city in Nigeria](https://github.com/Geo-Uni-Tuebingen/GEE/blob/master/imgs/PalmOil%20thin.jpg)
