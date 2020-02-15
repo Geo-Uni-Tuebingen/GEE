@@ -10,7 +10,7 @@ var s1 = sentinel1
   .filter(ee.Filter.eq('instrumentMode', 'IW'))
   .select('VV')
   .filter(ee.Filter.eq('orbitProperties_pass', 'ASCENDING'))
-  .filterDate(ee.Date('2014-01-01'), ee.Date('2019-12-31'))
+  .filterDate(ee.Date('2017-01-01'), ee.Date('2019-12-31'))
   .filterBounds(geometry);
 
 // Print size of filtered image collection
