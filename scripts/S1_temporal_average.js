@@ -17,8 +17,8 @@ var s1 = sentinel1
 print('Number of images: ', s1.size());
 
 // Temporal average (per pixel) over the entire collection
-var S1mean = s1.mean()
-Map.addLayer(S1mean.clip(geometry), {min: [-15], max: [0]}, 'SAR_mean', 1);
+var S1mean = s1.mean().clip(geometry); 
+Map.addLayer(S1mean, {min: -15, max: 0}, 'SAR_mean', 1);
 Map.centerObject(geometry);
 
 
