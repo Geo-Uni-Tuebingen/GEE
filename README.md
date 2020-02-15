@@ -46,7 +46,7 @@ Version 1.2
 - Comparison of classifiers
 
 *13:15 - 15:00*
-- Radar data in GEE (content, polarization)
+- [Radar data in GEE (content, polarization)](https://github.com/Geo-Uni-Tuebingen/GEE/blob/master/slides/Cloud-basierte%20Fernerkundung%2003%20Radar.pdf)
 - [Display a radar image](https://github.com/Geo-Uni-Tuebingen/GEE/blob/master/scripts/S1_single_image.js)
 - [Image composites](https://github.com/Geo-Uni-Tuebingen/GEE/blob/master/scripts/S1_image_composite.js)
 - [Image polarization](https://github.com/Geo-Uni-Tuebingen/GEE/blob/master/scripts/S1_polarization)
