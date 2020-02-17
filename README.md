@@ -14,7 +14,7 @@ Version 1.2
 - [EO Browser](https://apps.sentinel-hub.com/eo-browser/)
 
 *10:45 - 12:15*
-- Getting Started with GEE
+- [Getting Started with GEE](https://github.com/Geo-Uni-Tuebingen/GEE/blob/master/slides/Cloud-basierte%20Fernerkundung%2002%20Getting%20Started.pdf)
 - [GEE data types](https://github.com/Geo-Uni-Tuebingen/GEE/blob/master/scripts/S2_GEE_data_types.js)
 - [Load and display Images](https://github.com/Geo-Uni-Tuebingen/GEE/blob/master/scripts/S2_Load_and_display_images.js)
 - [Metadata and Console output](https://github.com/Geo-Uni-Tuebingen/GEE/blob/master/scripts/S2_Metadata_and_Console_output.js)
